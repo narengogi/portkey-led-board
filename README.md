@@ -11,4 +11,4 @@ I published the dashboard at [https://portkey.ai/rankings/daily](https://portkey
 - I've added a claude.md file (claude really helped with modifying the code for the generic Chinese P10 boards that the guy who scaffoled the boards sold me :' )
 - Basically p10 boards connected sequentially but run text parallelly
 - controlled with an ESP32
-- I didnt solder or put glue on the wiring lol, I know this might break at some point, I just plugged int he jumper cables and shipped it
+- I did not solder or put glue on the wiring lol, I know this might break at some point, I just plugged in the jumper cables and shipped it
