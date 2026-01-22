@@ -2,7 +2,7 @@
 
 This is a P10 LED board setup I put up in the portkey office that shows a scrolling ticker board style metrics of the live usage on portkey
 
-we process around 18M requests a day(that is a 100,000 Requests Per Minute!)
+we process around 18M requests a day(that is a 13000+ Requests Per Minute!)
 
 I published the dashboard at [https://portkey.ai/rankings/daily](https://portkey.ai/rankings/daily) (this is server side rendered and refreshed hourly)
 
