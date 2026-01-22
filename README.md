@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/9451939a-b0fa-482b-a627-f891182f9471
+![portkey_led_board](https://github.com/user-attachments/assets/b6a7d41f-6fcf-4bad-a230-3603f8bf1db8)
 
 This is a P10 LED board setup I put up in the portkey office that shows a scrolling ticker board style metrics of the live usage on portkey
 
